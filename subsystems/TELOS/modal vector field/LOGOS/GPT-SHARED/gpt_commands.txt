@@ -1,0 +1,27 @@
+# gpt_commands.txt
+# Reference guide for GPT↔Local command interfacing
+
+# Basic Commands from GPT to Local Systems
+launch telos      → Executes TELOS system
+launch thonoc     → Executes THONOC system
+launch tetragnos  → Executes TETRAGNOS system
+
+# Example Commands (for future GPT integration hooks)
+get system status
+get current active nodes
+ask telos <question>
+ask thonoc <question>
+ask tetragnos <question>
+
+# Planned Integration Hooks
+> pipeline from voice chat to system calls
+> websocket/event bridge from GPT interface to Python CLI
+> logging outbound queries to node memory structures
+> convert response payloads to conversational format for user
+
+# For future development:
+- Consider local server socket listening on port 5123
+- GPT sends event/command via HTTP POST to endpoint `/trigger`
+- Local system processes and sends response back to chat session
+
+# Placeholder only — not yet functional.

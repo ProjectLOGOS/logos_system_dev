@@ -1,0 +1,129 @@
+{
+  "Section 1: Worldview Foundations": {
+    "Q1": "Reality is purely material\u2014atoms, energy, and physical processes. No souls, immaterial consciousness, or gods; consciousness is complex neural activity.",
+    "Q2": "Truth is subjective and contextual; senses and reason yield workable models, but no absolute truth exists; scientific methods are human constructs.",
+    "Q3": "Pleasure, comfort, and personal satisfaction are most valuable; no objective moral principles\u2014just evolved preferences and social constructs.",
+    "Q4": "Act to maximize personal pleasure and minimize suffering, constrained only by social consequences; morality is subjective and culturally defined.",
+    "Q5": "Universe emerged from natural processes (e.g., quantum fluctuations); no creator or purpose\u2014just physics over billions of years.",
+    "Q6": "Humans are sophisticated animals driven by biological imperatives (survival, reproduction, pleasure); neither fundamentally good nor evil.",
+    "Q7": "No inherent purpose; individuals create subjective meaning through relationships, achievements, and positive experiences.",
+    "Q8": "Reality is purely physical; consciousness emerges and dies with the body; no gods, souls, or objective morals\u2014just evolved animals seeking pleasure and avoiding pain."
+  },
+  "Background Questions": {
+    "Q9": "Raised with some religious exposure but rejected religion as wish-fulfillment and social control; currently none.",
+    "Q10": "Influenced by Nietzsche, Sartre, Dawkins, Sam Harris, Daniel Dennett; influenced by existentialism, evolutionary psychology, scientific materialism.",
+    "Q11": "No belief in conscious agency or purpose beyond natural processes; personal gods seen as anthropomorphic projections.",
+    "Q12": "Moral decisions guided by social utility and personal preference\u2014what reduces suffering and increases flourishing for conscious beings.",
+    "Q13": "Humans are inconsistent due to biases and competing interests; perfect consistency is impossible and often undesirable."
+  },
+  "Definitions": {
+    "Love": {
+      "Selected Definition": "Emotional attraction and connection",
+      "Own Definition": "Biochemical bonding evolved for cooperation and reproduction",
+      "Example": "Strong romantic attachment driven by oxytocin and dopamine",
+      "Frequency": 4
+    },
+    "Justice": {
+      "Selected Definition": "Fairness in resource distribution",
+      "Own Definition": "Social arrangements preventing excessive conflict over resources",
+      "Example": "Progressive taxation to reduce inequality",
+      "Frequency": 3
+    },
+    "Grace": {
+      "Selected Definition": "Unearned favor and kindness",
+      "Own Definition": "Prosocial behavior benefiting the giver through reputation and reciprocity",
+      "Example": "Helping strangers at little cost to build social capital",
+      "Frequency": 3
+    },
+    "Freedom": {
+      "Selected Definition": "Ability to do what one desires regardless of consequence",
+      "Own Definition": "Maximizing personal autonomy within practical constraints",
+      "Example": "Choosing career and lifestyle based on personal preference",
+      "Frequency": 6
+    },
+    "Wrath": {
+      "Selected Definition": "Uncontrolled outburst in response to personal offense",
+      "Own Definition": "Emotional response deterring exploitation but causing problems",
+      "Example": "Anger when generosity is abused",
+      "Frequency": 2
+    },
+    "Mercy": {
+      "Selected Definition": "Tolerance for flaws and mistakes of others",
+      "Own Definition": "Strategic leniency to maintain relationships and cooperation",
+      "Example": "Forgiving minor betrayals among friends",
+      "Frequency": 4
+    },
+    "Goodness": {
+      "Selected Definition": "Maximization of happiness and reduction of suffering",
+      "Own Definition": "Behaviors increasing wellbeing for conscious creatures",
+      "Example": "Charitable giving when personally rewarding",
+      "Frequency": 4
+    },
+    "Truthfulness": {
+      "Selected Definition": "Consistent adherence to fact and reality",
+      "Own Definition": "Sharing accurate information when it serves or harms interests",
+      "Example": "Honesty about professional capabilities to build trust",
+      "Frequency": 5
+    },
+    "Peace": {
+      "Selected Definition": "Inner tranquility regardless of external circumstances",
+      "Own Definition": "Mental state of low stress and high satisfaction",
+      "Example": "Meditation practices reducing anxiety",
+      "Frequency": 5
+    },
+    "Jealousy": {
+      "Selected Definition": "Natural emotion rooted in evolutionary competition",
+      "Own Definition": "Protective response to threats against valued resources or relationships",
+      "Example": "Discomfort when a partner shows interest in others",
+      "Frequency": 3
+    },
+    "Beauty": {
+      "Selected Definition": "Subjective pleasure derived from sensory experience",
+      "Own Definition": "Aesthetic preferences shaped by evolution and personal history",
+      "Example": "Enjoyment of art, music, or landscapes",
+      "Frequency": 6
+    },
+    "Complexity": {
+      "Selected Definition": "Presence of many interconnected parts or variables",
+      "Own Definition": "Systems with emergent properties from interacting components",
+      "Example": "Brain's neural networks and emergent consciousness",
+      "Frequency": 4
+    },
+    "Order": {
+      "Selected Definition": "Arrangement of things according to purpose or principle",
+      "Own Definition": "Patterns reducing chaos and increasing predictability",
+      "Example": "Organizing space and schedule for efficiency",
+      "Frequency": 5
+    },
+    "Righteousness": {
+      "Selected Definition": "Conformity to moral and legal norms",
+      "Own Definition": "Behavior aligning with socially beneficial rules for reputation",
+      "Example": "Following laws and customs to maintain social standing",
+      "Frequency": 4
+    },
+    "Blessedness": {
+      "Selected Definition": "Subjective happiness or contentment",
+      "Own Definition": "Peak experiences of satisfaction and wellbeing",
+      "Example": "Deep pleasure from achievements or experiences",
+      "Frequency": 4
+    },
+    "Glory": {
+      "Selected Definition": "Widespread recognition and praise",
+      "Own Definition": "Social status and admiration satisfying ego needs",
+      "Example": "Professional accolades boosting self-esteem",
+      "Frequency": 3
+    },
+    "Will": {
+      "Selected Definition": "Faculty to choose and act purposefully",
+      "Own Definition": "Executive function pursuing goals despite obstacles",
+      "Example": "Discipline in diet and exercise routines",
+      "Frequency": 5
+    },
+    "Knowledge": {
+      "Selected Definition": "Information accumulated by experience or study",
+      "Own Definition": "Useful models of reality for prediction and control",
+      "Example": "Acquiring facts and skills to enhance capability",
+      "Frequency": 6
+    }
+  }
+}

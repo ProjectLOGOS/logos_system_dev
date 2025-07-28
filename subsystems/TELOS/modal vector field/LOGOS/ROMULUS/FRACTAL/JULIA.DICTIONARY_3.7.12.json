@@ -1,0 +1,121 @@
+{
+    "Knowledge": {
+        "c_value": {
+            "real": -0.835,
+            "imaginary": -0.321,
+            "string": "-0.835 - 0.321i"
+        }
+    },
+    "Will": {
+        "c_value": {
+            "real": -0.835,
+            "imaginary": -0.2321,
+            "string": "-0.835 - 0.2321i"
+        }
+    },
+    "Freedom": {
+        "c_value": {
+            "real": 0.285,
+            "imaginary": 0.01,
+            "string": "0.285 + 0.01i"
+        }
+    },
+    "Justice": {
+        "c_value": {
+            "real": -0.70176,
+            "imaginary": -0.3842,
+            "string": "-0.70176 - 0.3842i"
+        }
+    },
+    "Beauty": {
+        "c_value": {
+            "real": 0.4,
+            "imaginary": 0.4,
+            "string": "0.4 + 0.4i"
+        }
+    },
+    "Complexity (Chaos)": {
+        "c_value": {
+            "real": -0.75,
+            "imaginary": 0.11,
+            "string": "-0.75 + 0.11i"
+        }
+    },
+    "Order": {
+        "c_value": {
+            "real": -1.76419,
+            "imaginary": -0.00008,
+            "string": "-1.76419 - 0.00008i"
+        }
+    },
+    "Goodness": {
+        "c_value": {
+            "real": 0.355,
+            "imaginary": -0.337,
+            "string": "0.355 - 0.337i"
+        }
+    },
+    "Wrath": {
+        "c_value": {
+            "real": 0.359,
+            "imaginary": 0.599,
+            "string": "0.359 + 0.599i"
+        }
+    },
+    "Jealousy": {
+        "c_value": {
+            "real": 0.35,
+            "imaginary": 0.35,
+            "string": "0.35 + 0.35i"
+        }
+    },
+    "Grace": {
+        "c_value": {
+            "real": -0.7269,
+            "imaginary": 0.1889,
+            "string": "-0.7269 + 0.1889i"
+        }
+    },
+    "Blessedness": {
+        "c_value": {
+            "real": -0.74543,
+            "imaginary": 0.11301,
+            "string": "-0.74543 + 0.11301i"
+        }
+    },
+    "Glory": {
+        "c_value": {
+            "real": -0.1,
+            "imaginary": 0.651,
+            "string": "-0.1 + 0.651i"
+        }
+    },
+    "Truthfulness": {
+        "c_value": {
+            "real": -0.7017,
+            "imaginary": 0.3842,
+            "string": "-0.7017 + 0.3842i"
+        }
+    },
+    "Love": {
+        "c_value": {
+            "real": 0.354,
+            "imaginary": 0.354,
+            "string": "0.354 + 0.354i"
+        }
+    },
+    "Peace": {
+        "c_value": {
+            "real": 0.285,
+            "imaginary": 0.0,
+            "string": "0.285 + 0i"
+        }
+    },
+    "Righteousness": {
+        "c_value": {
+            "real": 0.3,
+            "imaginary": 0.6,
+            "string": "0.3 + 0.6i"
+        }
+    }
+}
