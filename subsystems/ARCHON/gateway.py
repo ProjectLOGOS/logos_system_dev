@@ -1,13 +1,14 @@
-# gateway.py  (place inside each subsystem folder)
+# logos_system/subsystems/ARCHON/gateway.py
 
-from subsystems.TETRAGNOS.lock_utils import lock_required
+from typing import Dict, Any
+from logos.kernel.lock_utils import lock_required
+from .archon_nexus import ArchonNexus
 
 @lock_required
-def run(token="INVALID", *args, **kwargs):
+def run(lock_ctx, output_data: Dict[str, Any]):
     """
-    Single entry-point for the subsystem.
-    Today: just a placeholder.
-    Later: call the real work function.
+    Gateway for ARCHON: only runs if the TLM token is valid.
+    Delegates to ArchonNexus for semantic enrichment and final formatting.
     """
-    print("✅ Subsystem gateway reached — replace this with real call")
-    return True    # placeholder result
+    nexus = ArchonNexus()
+    return nexus.run(output_data=output_data, tlm_token=lock_ctx.token)
