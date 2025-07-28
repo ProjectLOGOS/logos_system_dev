@@ -1,1 +1,7 @@
-# stub – to be implemented
+# subsystems/archon/social/tom_graph.py
+class TheoryOfMindGraph:
+    """
+    Placeholder for social-cognition graph.
+    Later: nodes = agents, edges = belief predicates.
+    """
+    pass

@@ -1,1 +1,7 @@
-# stub – to be implemented
+# subsystems/archon/social/multiagent_planner.py
+class MultiAgentPlanner:
+    """
+    Placeholder that will query TheoryOfMindGraph
+    and produce action plans for multiple agents.
+    """
+    pass
