@@ -1,1 +1,0 @@
-# Tetragnos ontology integration & validation
