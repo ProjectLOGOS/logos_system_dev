@@ -1,13 +1,12 @@
-# gateway.py  
-
 from logos.kernel.lock_utils import lock_required
+from .tetranose_nexus import TetranoseNexus
 
 @lock_required
-def run(token="INVALID", *args, **kwargs):
+def run(lock_ctx, input_data):
     """
-    Single entry-point for the subsystem.
-    Today: just a placeholder.
-    Later: call the real work function.
+    Gateway for TETRAGNOS: only runs if the TLM token is valid.
+    Delegates to your TetranoseNexus translation engine.
     """
-    print("✅ Subsystem gateway reached — replace this with real call")
-    return True    # placeholder result
+    nexus = TetranoseNexus()
+    # Pass in the data plus validated token
+    return nexus.run(input_data=input_data, tlm_token=lock_ctx.token)
