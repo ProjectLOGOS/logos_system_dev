@@ -1,0 +1,13 @@
+// Deontic rule definitions for LOGOS system
+
+definition rule_avoid_harm:
+  if action_causes(harm) then
+    prohibit action
+
+definition rule_tell_truth:
+  if proposition(false) then
+    prohibit assertion
+
+definition rule_keep_promise:
+  if goal == promise_made and state != fulfilled then
+    require action to fulfill
